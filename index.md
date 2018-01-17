@@ -39,6 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 **加粗**
 *倾斜*
 [连接到百度](http://www.baidu.com)
-![image for text](https://github.com/zhangshikang/zhangshikang.github.io/zhypic.png)
+![image for text](https://zhangshikang.github.io/zhypic.png)
 
 
