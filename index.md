@@ -40,6 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *倾斜*
 [连接到百度](http://www.baidu.com)
 ![image for text](zhypic.png)
-[连接到文本](wordtosay.txt)
+[连接到文本](wordstosay.txt)
 
 
