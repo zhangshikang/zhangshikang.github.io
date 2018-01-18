@@ -4,4 +4,5 @@ MD5，全名Message Digest Algorithm 5 ，中文名为消息摘要算法第五�
 
 不同消息（文件）的MD5码不一样，所以经常用来检验文件是否被修改过。  
   
-这里要提交到主分支
+这里要提交到主分支  
+ someting else to say,need excise
